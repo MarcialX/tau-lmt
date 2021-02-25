@@ -1,4 +1,4 @@
-# Opacity $`\tau`$ at LMT (2013-2020) "tau-lmt"
+# Opacity $$\tau$$ at LMT (2013-2020) "tau-lmt"
 
 Developed by Marcial Becerril. Data taken from opacity measurements at LMT with the radiometer (215 GHz) from 2013 to 2020.
 http://lmtgtm.org/?lang=es
