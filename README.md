@@ -1,15 +1,14 @@
 # Opacity at LMT (2013-2020) "tau-lmt"
 
-Developed by Marcial Becerril. Data taken from opacity measurements at LMT with the radiometer (215 GHz) from 2013 to 2020.
+Developed by Marcial Becerril. Data taken from opacity measurements at LMT with the radiometer (225 GHz) from 2013 to 2020.
 http://lmtgtm.org/?lang=es
 
 More data related to the instrument: http://wiki.lmtgtm.org/site.html
 
 tau-lmt is a set of tools that easily analize and display the opacities measurements.
 It includes:
-- Filter $\tau$ data by year, month, day, hour and minute
+- Filter opacity data by year, month, day, hour and minute
 - Get basic statistic from a period of data (filtered or not): mean, median, quartils.
-- 
 
 ## Requirements 📋
 
